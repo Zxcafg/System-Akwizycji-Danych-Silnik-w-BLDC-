@@ -36,5 +36,7 @@ System akwizycji danych (DAQ) o wysokiej rozdzielczości oparty na mikrokontrole
 Projekt stanowi część pracy dyplomowej **" ZASTOSOWANIE WYBRANYCH METOD UCZENIA MASZYNOWEGO DO WYKRYWANIA USZKODZEŃ NAPĘDU ELEKTRYCZNEGO DRONA".**
 
 **Autor:** Pavel Tshonek
+
 **Rok:** 2026
+
 
