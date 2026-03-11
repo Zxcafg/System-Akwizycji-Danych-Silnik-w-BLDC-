@@ -1,0 +1,1 @@
+# System-Akwizycji-Danych-Silnik-w-BLDC-
